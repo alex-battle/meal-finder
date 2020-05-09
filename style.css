@@ -52,7 +52,7 @@
     border-bottom-right-radius: 4px;
   }
   
-  /* .meals {
+  .meals {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 20px;
@@ -132,7 +132,7 @@
     font-weight: bold;
     padding: 5px;
     margin: 0 5px 5px 0;
-  } */
+  }
   
   @media (max-width: 800px) {
     .meals {
