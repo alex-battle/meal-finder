@@ -74,6 +74,8 @@ function getRandomMeal(){
         })
 }
 
+
+
 // add meal to DOM
 function addMealToDOM(meal){
     const ingredients = []
